@@ -1,0 +1,2 @@
+Minted NFT TX:
+https://explorer.solana.com/tx/2Q7EGgv6cNpJR8Fw5dg13AWEgjMJDvoACnBG2f6jTbTwAjLcHRzVrvJW7KbJTKwDwE6KjsLv62QHFVDas2H8anbc?cluster=devnet

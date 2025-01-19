@@ -43,7 +43,7 @@ const vaultState = new PublicKey("<address>");
   // const vault = ???
 
   // Execute our enrollment transaction
-  async () => {
+  async (() => {
     try {
       // const signature = await program.methods
       // .withdraw(new BN(<number>))
